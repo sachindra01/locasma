@@ -1,0 +1,439 @@
+{
+    "categoryItems": [
+        {
+            "image": "https://cdn.mos.cms.futurecdn.net/C6Qf6YSUH7nQf2dQPAbzuZ-970-80.jpg.webp",
+            "name": "Starbucks",
+            "location": "Tokyo, Japan",
+            "distance": "200m",
+            "rank": "A",
+            "views": "12,33",
+            "businessHour": "10:00 ~ 19:00",
+            "memo": "memo 1 https://images-platform.99static.com//ps8QHVr2Q6zn8KJAK-UUWzb4750=/0x0:2000x2000/fit-in/590x590/99designs-contests-attachments/102/102676/attachment_102676624",
+            "purchasedDate": "2021 Jan",
+            "id": 1,
+            "lat": 27.7137735,
+            "lon": 85.315626,
+            "snippet": "Ason, Kathmandu",
+            "markerIcon" :"https://icons.iconarchive.com/icons/graphicloads/100-flat/128/home-icon.png",
+            "items": [
+                {
+                    "id": "p1",
+                    "name": "Item 1",
+                    "description": "Description 1"
+                },
+                {
+                    "id": "p2",
+                    "name": "Item 2",
+                    "description": "Description 2"
+                },
+                {
+                    "id": "p3",
+                    "name": "Item 3",
+                    "description": "Description 3"
+                },
+                {
+                    "id": "p2",
+                    "name": "Item 2",
+                    "description": "Description 2"
+                },
+                {
+                    "id": "p3",
+                    "name": "Item 3",
+                    "description": "Description 3"
+                }
+            ]
+        },
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/en/c/c9/Tully%27s_Coffee_logo.png",
+            "name": "Tully's",
+            "location": "Tokyo",
+            "distance": "200m",
+            "views": "12,33",
+            "rank": "S",
+            "purchasedDate": "2021 Jan",
+            "id": 2,
+            "lat": 27.6837735,
+            "lon": 85.325626,
+            "snippet": "Sanepa, Lalitpur",
+            "markerIcon": "https://www.fluttercampus.com/img/car.png", 
+            "memo": "memo 1",
+            "businessHour": "10:00 ~ 19:00",
+            "items": [
+                {
+                    "id": "p1",
+                    "name": "Item 1",
+                    "description": "Description 1"
+                },
+                {
+                    "id": "p2",
+                    "name": "Item 2",
+                    "description": "Description 2"
+                }
+            ]
+        },
+        {
+            "image": "https://images-platform.99static.com//ps8QHVr2Q6zn8KJAK-UUWzb4750=/0x0:2000x2000/fit-in/590x590/99designs-contests-attachments/102/102676/attachment_102676624",
+            "name": "Himalayan Java",
+            "location": "Labim , Nepal",
+            "distance": "200m",
+            "rank": "Z",
+            "views": "12,33",
+            "purchasedDate": "2021 Jan",
+            "id": 3,
+            "lat": 27.6737735,
+            "lon": 85.385626,
+            "snippet": "Thimi, Bhaktapur",
+            "markerIcon" :"https://icons.iconarchive.com/icons/graphicloads/100-flat/128/home-icon.png",
+            "memo": "memo 1",
+            "businessHour": "10:00 ~ 19:00",
+            "items": [
+                {
+                    "id": "p1",
+                    "name": "Item 1",
+                    "description": "Description 1"
+                },
+                {
+                    "id": "p2",
+                    "name": "Item 2",
+                    "description": "Description 2"
+                },
+                {
+                    "id": "p3",
+                    "name": "Item 3",
+                    "description": "Description 3"
+                },
+                {
+                    "id": "p2",
+                    "name": "Item 2",
+                    "description": "Description 2"
+                },
+                {
+                    "id": "p3",
+                    "name": "Item 3",
+                    "description": "Description 3"
+                }
+            ]
+        },
+        {
+            "image": "https://images-platform.99static.com//ps8QHVr2Q6zn8KJAK-UUWzb4750=/0x0:2000x2000/fit-in/590x590/99designs-contests-attachments/102/102676/attachment_102676624",
+            "name": "Coffee",
+            "location": "Coffee , Coffee",
+            "distance": "200m",
+            "rank": "C",
+            "views": "12,33 ",
+            "purchasedDate": "2021 Jan",
+            "id": 4,
+            "lat": 27.5937735,
+            "lon": 85.275626,
+            "snippet": "Kirtipur, Kathmandu",
+            "markerIcon": "https://www.fluttercampus.com/img/car.png", 
+            "memo": "memo 1 https://images-platform.99static.com//ps8QHVr2Q6zn8KJAK-UUWzb4750=/0x0:2000x2000/fit-in/590x590/99designs-contests-attachments/102/102676/attachment_102676624",
+            "businessHour": "10:00 ~ 19:00",
+            "items": [
+                {
+                    "id": "p1",
+                    "name": "Item 1",
+                    "description": "Description 1"
+                }
+            ]
+        },
+        {
+            "image": "https://images-platform.99static.com//ps8QHVr2Q6zn8KJAK-UUWzb4750=/0x0:2000x2000/fit-in/590x590/99designs-contests-attachments/102/102676/attachment_102676624",
+            "name": "Juice",
+            "location": "Something",
+            "distance": "200m",
+            "rank": "B",
+            "purchasedDate": "2021 Jan",
+            "views": "111",
+            "id": 5,
+            "lat": 27.72,
+            "lon": 85.28,
+            "snippet": "Pokhara",
+            "markerIcon" :"https://icons.iconarchive.com/icons/graphicloads/100-flat/128/home-icon.png",
+            "memo": "memo 1  sdfsdf https://images-platform.99static.com//ps8QHVr2Q6zn8KJAK-UUWzb4750=/0x0:2000x2000/fit-in/590x590/99designs-contests-attachments/102/102676/attachment_102676624",
+            "businessHour": "10:00 ~ 19:00",
+            "items": [
+                {
+                    "id": "p1",
+                    "name": "Item 1",
+                    "description": "Description 1"
+                },
+                {
+                    "id": "p2",
+                    "name": "Item 2",
+                    "description": "Description 2"
+                },
+                {
+                    "id": "p2",
+                    "name": "Item 2",
+                    "description": "Description 2"
+                },
+                {
+                    "id": "p3",
+                    "name": "Item 3",
+                    "description": "Description 3"
+                }
+            ]
+        },
+        {
+            "image": "https://cdn.mos.cms.futurecdn.net/C6Qf6YSUH7nQf2dQPAbzuZ-970-80.jpg.webp",
+            "name": "Starbucks",
+            "location": "Tokyo, Thau",
+            "distance": "200m",
+            "rank": "A",
+            "views": "12,33",
+            "businessHour": "10:00 ~ 19:00",
+            "memo": "memo 1 https://images-platform.99static.com//ps8QHVr2Q6zn8KJAK-UUWzb4750=/0x0:2000x2000/fit-in/590x590/99designs-contests-attachments/102/102676/attachment_102676624",
+            "purchasedDate": "2021 Jan",
+            "id": 6,
+            "lat": 27.73,
+            "lon": 85.28,
+            "snippet": "Mustang",
+            "markerIcon": "https://www.fluttercampus.com/img/car.png", 
+            "items": [
+                {
+                    "id": "p1",
+                    "name": "Item 1",
+                    "description": "Description 1"
+                },
+                {
+                    "id": "p2",
+                    "name": "Item 2",
+                    "description": "Description 2"
+                },
+                {
+                    "id": "p3",
+                    "name": "Item 3",
+                    "description": "Description 3"
+                },
+                {
+                    "id": "p2",
+                    "name": "Item 2",
+                    "description": "Description 2"
+                },
+                {
+                    "id": "p3",
+                    "name": "Item 3",
+                    "description": "Description 3"
+                }
+            ]
+        },
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/en/c/c9/Tully%27s_Coffee_logo.png",
+            "name": "Tully's",
+            "location": "Tokyo, Masyu",
+            "distance": "200m",
+            "views": "12,33",
+            "rank": "S",
+            "purchasedDate": "2021 Jan",
+            "memo": "memo 1",
+            "businessHour": "10:00 ~ 19:00",
+            "id": 7,
+            "lat": 27.74,
+            "lon": 85.275626,
+            "snippet": "Rara Lake",
+            "markerIcon" :"https://icons.iconarchive.com/icons/graphicloads/100-flat/128/home-icon.png",
+            "items": [
+                {
+                    "id": "p1",
+                    "name": "Item 1",
+                    "description": "Description 1"
+                },
+                {
+                    "id": "p2",
+                    "name": "Item 2",
+                    "description": "Description 2"
+                },
+                {
+                    "id": "p2",
+                    "name": "Item 2",
+                    "description": "Description 2"
+                },
+                {
+                    "id": "p3",
+                    "name": "Item 3",
+                    "description": "Description 3"
+                },
+                {
+                    "id": "p3",
+                    "name": "Item 3",
+                    "description": "Description 3"
+                }
+            ]
+        },
+        {
+            "image": "https://cdn.mos.cms.futurecdn.net/C6Qf6YSUH7nQf2dQPAbzuZ-970-80.jpg.webp",
+            "name": "Starbucks",
+            "location": "Tokyo, Thau",
+            "distance": "200m",
+            "rank": "A",
+            "views": "12,33",
+            "businessHour": "10:00 ~ 19:00",
+            "memo": "memo 1 https://images-platform.99static.com//ps8QHVr2Q6zn8KJAK-UUWzb4750=/0x0:2000x2000/fit-in/590x590/99designs-contests-attachments/102/102676/attachment_102676624",
+            "purchasedDate": "2021 Jan",
+            "id": 8,
+            "lat": 27.75,
+            "lon": 85.275626,
+            "snippet": "Bandipur",
+            "markerIcon": "https://www.fluttercampus.com/img/car.png", 
+            "items": [
+                {
+                    "id": "p1",
+                    "name": "Item 1",
+                    "description": "Description 1"
+                },
+                {
+                    "id": "p2",
+                    "name": "Item 2",
+                    "description": "Description 2"
+                },
+                {
+                    "id": "p3",
+                    "name": "Item 3",
+                    "description": "Description 3"
+                },
+                {
+                    "id": "p2",
+                    "name": "Item 2",
+                    "description": "Description 2"
+                },
+                {
+                    "id": "p3",
+                    "name": "Item 3",
+                    "description": "Description 3"
+                }
+            ]
+        },
+        {
+            "image": "https://upload.wikimedia.org/wikipedia/en/c/c9/Tully%27s_Coffee_logo.png",
+            "name": "Tully's",
+            "location": "Tokyo, Masyu",
+            "distance": "200m",
+            "views": "12,33",
+            "rank": "S",
+            "purchasedDate": "2021 Jan",
+            "memo": "memo 1",
+            "businessHour": "10:00 ~ 19:00",
+            "id": 9,
+            "lat": 27.69,
+            "lon": 85.26,
+            "snippet": "Janakpur",
+            "markerIcon": "https://www.fluttercampus.com/img/car.png", 
+            "items": [
+                {
+                    "id": "p1",
+                    "name": "Item 1",
+                    "description": "Description 1"
+                },
+                {
+                    "id": "p2",
+                    "name": "Item 2",
+                    "description": "Description 2"
+                },
+                {
+                    "id": "p3",
+                    "name": "Item 3",
+                    "description": "Description 3"
+                }
+            ]
+        },
+        {
+            "image": "https://images-platform.99static.com//ps8QHVr2Q6zn8KJAK-UUWzb4750=/0x0:2000x2000/fit-in/590x590/99designs-contests-attachments/102/102676/attachment_102676624",
+            "name": "Himalayan Java",
+            "location": "Labim, Nepal",
+            "distance": "200m",
+            "rank": "Z",
+            "views": "12,33",
+            "purchasedDate": "2021 Jan",
+            "memo": "memo 1",
+            "businessHour": "10:00 ~ 19:00",
+            "id": 10,
+            "lat": 27.64,
+            "lon": 85.275626,
+            "snippet": "Annapurna",
+            "markerIcon" :"https://icons.iconarchive.com/icons/graphicloads/100-flat/128/home-icon.png",
+            "items": [
+                {
+                    "id": "p1",
+                    "name": "Item 1",
+                    "description": "Description 1"
+                }
+            ]
+        },
+        {
+            "image": "https://images-platform.99static.com//ps8QHVr2Q6zn8KJAK-UUWzb4750=/0x0:2000x2000/fit-in/590x590/99designs-contests-attachments/102/102676/attachment_102676624",
+            "name": "Coffee",
+            "location": "Coffee Land",
+            "distance": "200m",
+            "rank": "C",
+            "views": "12,33 ",
+            "purchasedDate": "2021 Jan",
+            "memo": "memo 1 https://images-platform.99static.com//ps8QHVr2Q6zn8KJAK-UUWzb4750=/0x0:2000x2000/fit-in/590x590/99designs-contests-attachments/102/102676/attachment_102676624",
+            "businessHour": "10:00 ~ 19:00",
+            "id": 11,
+            "lat": 27.63,
+            "lon": 85.29,
+            "snippet": "Everest",
+            "markerIcon": "https://www.fluttercampus.com/img/car.png", 
+            "items": [
+                {
+                    "id": "p1",
+                    "name": "Item 1",
+                    "description": "Description 1"
+                },
+                {
+                    "id": "p2",
+                    "name": "Item 2",
+                    "description": "Description 2"
+                }
+            ]
+        },
+        {
+            "image": "https://images-platform.99static.com//ps8QHVr2Q6zn8KJAK-UUWzb4750=/0x0:2000x2000/fit-in/590x590/99designs-contests-attachments/102/102676/attachment_102676624",
+            "name": "Juice",
+            "location": "Something",
+            "distance": "200m",
+            "rank": "B",
+            "purchasedDate": "2021 Jan",
+            "views": "111",
+            "memo": "memo 1  sdfsdf https://images-platform.99static.com//ps8QHVr2Q6zn8KJAK-UUWzb4750=/0x0:2000x2000/fit-in/590x590/99designs-contests-attachments/102/102676/attachment_102676624",
+            "businessHour": "10:00 ~ 19:00",
+            "id": 12,
+            "lat": 27.72,
+            "lon": 85.23,
+            "snippet": "Langtang",
+            "markerIcon" :"https://icons.iconarchive.com/icons/graphicloads/100-flat/128/home-icon.png",
+            "items": [
+                {
+                    "id": "p3",
+                    "name": "Item 3",
+                    "description": "Description 3"
+                }
+            ]
+        }
+        ,
+        {
+            "image": "https://images-platform.99static.com//ps8QHVr2Q6zn8KJAK-UUWzb4750=/0x0:2000x2000/fit-in/590x590/99designs-contests-attachments/102/102676/attachment_102676624",
+            "name": "Juice",
+            "location": "Something",
+            "distance": "200m",
+            "rank": "B",
+            "purchasedDate": "2021 Jan",
+            "views": "111",
+            "memo": "memo 1  sdfsdf https://images-platform.99static.com//ps8QHVr2Q6zn8KJAK-UUWzb4750=/0x0:2000x2000/fit-in/590x590/99designs-contests-attachments/102/102676/attachment_102676624",
+            "businessHour": "10:00 ~ 19:00",
+            "id": 12,
+            "lat": 80.72,
+            "lon": 85.23,
+            "snippet": "Somwhere",
+            "markerIcon" :"https://icons.iconarchive.com/icons/graphicloads/100-flat/128/home-icon.png",
+            "items": [
+                {
+                    "id": "p3",
+                    "name": "Item 3",
+                    "description": "Description 3"
+                }
+            ]
+        }
+    ]
+}

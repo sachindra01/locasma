@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "291002737215",
+    "project_id": "locasma-3cc59",
+    "storage_bucket": "locasma-3cc59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291002737215:android:85017ddb03e354a877ce8a",
+        "android_client_info": {
+          "package_name": "com.yig.mi.locasma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291002737215-qr84r6ng9oigug3kbvho7ie6k3msnu6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2pKbmBch9OXOh7u_PJVmf39s2v-ubo9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291002737215-qr84r6ng9oigug3kbvho7ie6k3msnu6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
